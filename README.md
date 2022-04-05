@@ -1,8 +1,9 @@
 Setup
 ==================
 
-This [React] app was initialized with [create-near-app]
+This [React] app was initialized with [create-near-app] (Gananche)
 
+NEAR Blockchain is used as as our Tool as it was free for the Contract Deployment, provided free 10 ether account transactions and also to test on local public ethereum blockchain network.  
 
 Quick Start
 ===========
