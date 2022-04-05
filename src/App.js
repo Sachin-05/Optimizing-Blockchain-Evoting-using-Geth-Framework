@@ -12,7 +12,7 @@ import NewPoll from "./Components/NewPoll";
 import PollingStation from "./Components/PollingStation";
 
 // images
-import BlockVoteLogo from "./assets/blockvotelogo.svg";
+import BlockVoteLogo from "./assets/UPlogo.png";
 
 import getConfig from "./config";
 const { networkId } = getConfig(process.env.NODE_ENV || "development");
@@ -33,6 +33,7 @@ export default function App() {
         <Container>
           <Navbar.Brand href='/'>
             <img src={BlockVoteLogo}></img>
+            Uttar Pradesh Vidhan Sabha 2022 Elections
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='responsive-navbar-nav' />
           <Navbar.Collapse id='responsive-navbar-nav'>
