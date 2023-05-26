@@ -1,4 +1,4 @@
-This is my minor project during 5th semester of my B.Tech from University of Allahabad.
+This is my major project during 8th semester of my B.Tech from University of Allahabad.
 
 Some Screentshots from the project ::
 ![Screenshot Capture - 2023-05-26 - 10-46-56](https://github.com/Sachin-05/Optimizing-Blockchain-Evoting-using-Geth-Framework-with-UID-Hash-Source-Code/assets/51017352/ad5cf504-3c10-466e-bdb4-c178f4528f68)
